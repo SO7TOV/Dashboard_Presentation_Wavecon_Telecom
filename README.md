@@ -13,9 +13,10 @@ Analyze the dashboard and provide insights on a ppt that addresses the following
 - Is there any plan that is discontinued after the 5G launch? What is the reason for it?
 - Create a presentation from the dashboard for our telecom client 'wavecon'.
 
-##Insights
--The revenue has experienced a 0.5% decrease compared to the previous network
--Despite a 55% increase in unsubscribed users, Pune has shown an impressive 18% growth in active users.
--Among all the plans, Plan 1, Plan 2, and Plan 11 stand out as the top-performing plans.
--Following the launch of 5G, Plan 5 and Plan 7 have experienced significant failures, particularly Plan 7, which has witnessed a decline in revenue across almost all -cities. It would be advisable to discontinue Plan 7 and proceed with the remaining plans.
--WaveCon consistently holds the third position in the market without any fluctuations.
+## Insights
+
+- The revenue has experienced a 0.5% decrease compared to the previous network.
+- Despite a 55% increase in unsubscribed users, Pune has shown an impressive 18% growth in active users.
+- Among all the plans, Plan 1, Plan 2, and Plan 11 stand out as the top-performing plans.
+- Following the launch of 5G, Plan 5 and Plan 7 have experienced significant failures, particularly Plan 7, which has witnessed a decline in revenue across almost all -cities. It would be advisable to discontinue Plan 7 and proceed with the remaining plans.
+- WaveCon consistently holds the third position in the market without any fluctuations.
